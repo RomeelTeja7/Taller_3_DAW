@@ -2,6 +2,7 @@
 <materias>
 
 //ciclo1 <materia>
+</cliclo1>
 <nombre>Antropología Filosófica</nombre><codigo>ANF231</codigo><descripcion>descripciones de materias...</descripcion>
 </materia>
 
@@ -20,9 +21,11 @@
 //<materia>
 <nombre>Redes de Comunicación</nombre><codigo>REC404</codigo><descripcion>descripciones de materias...</descripcion>
 </materia>
+</cliclo1>
 
 
 //ciclo2 <materia>
+<cliclo2>
 <nombre>Análisis y Diseño de Sistemas</nombre><codigo>ADS404</codigo><descripcion>descripciones de materias...</descripcion>
 </materia>
 
@@ -45,9 +48,11 @@
 //<materia>
 <nombre>Soporte de Equipos y Sistemas Computacionales</nombre><codigo>SES404</codigo><descripcion>descripciones de materias...</descripcion>
 </materia>
+</cliclo2>
 
 
 //ciclo3 <materia>
+</cliclo3>
 <nombre>Base de Datos</nombre><codigo>BDD404</codigo><descripcion>descripciones de materias...</descripcion>
 </materia>
 
@@ -66,9 +71,11 @@
 //<materia>
 <nombre>Servidores en Plataformas Libres</nombre><codigo>SPL404</codigo><descripcion>descripciones de materias...</descripcion>
 </materia>
+</cliclo3>
 
 
 //ciclo4 <materia>
+</cliclo4>
 <nombre>Administración de Proyectos</nombre><codigo>ADP404</codigo><descripcion>descripciones de materias...</descripcion>
 </materia>
 
@@ -87,7 +94,7 @@
 //<materia>
 <nombre>Servidores en Plataformas Propietarias</nombre><codigo>SPP404</codigo><descripcion>descripciones de materias...</descripcion>
 </materia>
-
+</cliclo4>
 
 </materias>
 
